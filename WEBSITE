@@ -1,0 +1,13 @@
+{
+  "body":"**Solar Engulfment** is a 2D Endless sidescroller, your mission is to rescue colonies from the forever expanse of the sun.",
+  "gamejam":"ludum-dare",
+  "img_copyright":{
+      "author":"Bitheral",
+      "year":"2018"
+  },
+  "isJam":true,
+  "link":"https://ldjam.com/events/ludum-dare/42/solar-engulfment",
+  "name":"Solar Engulfment",
+  "order":1,
+  "type":"game"
+}
