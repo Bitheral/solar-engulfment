@@ -3,6 +3,7 @@
   "link":"https://ldjam.com/events/ludum-dare/42/solar-engulfment",
   "name":"Solar Engulfment",
   "order":1,
+  "image_id": "solar-engulfment",
   "tags": [
     "Ludum Dare",
     "Game"
